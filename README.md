@@ -142,26 +142,26 @@ root@yuna: cat aboutme.json
 </div>
 
 <p align="left">
-<a href="https://music.youtube.com/watch?v=XDMg06hw97U&si=clO6M2gheTKS-bry"><img src="https://lh3.googleusercontent.com/rra9ajpG50BoWyxszMpVqMAloA83Q1p3V4ryNrtDhAriAqvxyNAEAKU0KDs0JoxgDKoSsiWe_GDWong=w544-h544-l90-rj" width="140"/></a>
+<a href="https://music.apple.com/in/album/self-love-spider-man-across-the-spider-verse/1690685331?i=1690685844&ls"><img src="https://lh3.googleusercontent.com/rra9ajpG50BoWyxszMpVqMAloA83Q1p3V4ryNrtDhAriAqvxyNAEAKU0KDs0JoxgDKoSsiWe_GDWong=w544-h544-l90-rj" width="140"/></a>
 <br><br><b>Metro Boomin, Coi Leray - Self Love</b>
 <br><br>
 </p>
 
 <p align="right">
-<a href="https://music.youtube.com/watch?v=AoVgx-kffaU&si=AbHaJD0700Zas2Bu"><img src="https://lh3.googleusercontent.com/YmDiBbyLwcUSrWIp-pJ4TV8avIXmZlWw_MlJ66XzlQ0-fG7rEA5S2tA-qlJsrgP3_T2HHeO9H4m6v12n=w544-h544-l90-rj" width="140"/></a>
+<a href="https://music.apple.com/in/album/m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g/1738702582?i=1738702855&ls"><img src="https://lh3.googleusercontent.com/YmDiBbyLwcUSrWIp-pJ4TV8avIXmZlWw_MlJ66XzlQ0-fG7rEA5S2tA-qlJsrgP3_T2HHeO9H4m6v12n=w544-h544-l90-rj" width="140"/></a>
 <br><b>PARTYNEXTDOOR - Make It To The Morning</b><br><br>
 </p>
 
 <p align="left">
-<a href="https://music.youtube.com/watch?v=gHb6AEwNFBU&si=fhgu8SOEP386hszY"><img src="https://lh3.googleusercontent.com/ii_8E4zawhW8ARpz0GAzFkLGzg9dUOmlmz4Z3skCudi_0IZ6pSKggTj_6iAtPsey7ZaCVHNLfYswhfNr=w544-h544-l90-rj" width="140"/></a>
+<a href="https://music.apple.com/in/album/trance/1657271960?i=1657271969&ls"><img src="https://lh3.googleusercontent.com/ii_8E4zawhW8ARpz0GAzFkLGzg9dUOmlmz4Z3skCudi_0IZ6pSKggTj_6iAtPsey7ZaCVHNLfYswhfNr=w544-h544-l90-rj" width="140"/></a>
 <br><br><b>Metro Boomin, Travis Scott, Young Thug - Trance</b><br><br>
 
 <p align="right">
-<a href="https://music.youtube.com/watch?v=_r-nPqWGG6c"><img src="https://lh3.googleusercontent.com/wLGxY8MpNtJ-m3POiYTchR5daHFJcV5QfYhWnrl5S7ioScVmfcFiTJbOwd09CwNC4yOWmFuq9IebeUlX=w544-h544-l90-rj" width="140"/></a>
+<a href="https://music.apple.com/in/album/no-idea/1465000156?i=1465000157&ls"><img src="https://lh3.googleusercontent.com/wLGxY8MpNtJ-m3POiYTchR5daHFJcV5QfYhWnrl5S7ioScVmfcFiTJbOwd09CwNC4yOWmFuq9IebeUlX=w544-h544-l90-rj" width="140"/></a>
 <br><br><b>Don Toliver - No Idea</b><br><br>
 
 <p align="left">
-<a href="https://music.youtube.com/watch?v=NajmHZ6kcUg"><img src="https://lh3.googleusercontent.com/41PsASnG6kJNRbgAy-1jWpAbw7XEqwoyk1z8tlzVf2bqEQN5-uQvRxfNkJ7E9WyWmD0oJ0RwBtRnxLs=w544-h544-l90-rj" width="140"/>
+<a href="https://music.apple.com/in/album/love-me-feat-drake-future/1440859562?i=1440859905&ls"><img src="https://lh3.googleusercontent.com/41PsASnG6kJNRbgAy-1jWpAbw7XEqwoyk1z8tlzVf2bqEQN5-uQvRxfNkJ7E9WyWmD0oJ0RwBtRnxLs=w544-h544-l90-rj" width="140"/>
 </a>
 <br><br><b>Lil Wayne, Drake, Future - Love Me</b>
 </p>
