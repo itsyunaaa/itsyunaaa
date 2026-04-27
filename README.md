@@ -148,8 +148,8 @@ root@yuna: cat aboutme.json
 </p>
 
 <p align="right">
-<a href="https://music.apple.com/in/album/m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g/1738702582?i=1738702855&ls"><img src="https://lh3.googleusercontent.com/YmDiBbyLwcUSrWIp-pJ4TV8avIXmZlWw_MlJ66XzlQ0-fG7rEA5S2tA-qlJsrgP3_T2HHeO9H4m6v12n=w544-h544-l90-rj" width="140"/></a>
-<br><b>PARTYNEXTDOOR - Make It To The Morning</b><br><br>
+<a href="https://music.apple.com/in/album/m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g/1738702582?i=1738702855&ls"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Parental_Advisory_label.svg/3840px-Parental_Advisory_label.svg.png" width="140"/></a>
+<br><br><b>PARTYNEXTDOOR - Make It To The Morning</b><br><br>
 </p>
 
 <p align="left">
