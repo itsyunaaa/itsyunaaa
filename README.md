@@ -1,7 +1,7 @@
 <!-- README.MD by Yuna -->
 
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyeTdhYmVkc3AzdjZ2czc1dmExcGo4aTdoaG1vbDdkd2I5aHpicnpoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mrl2q2H2mQIb4ZBpgJ/giphy.gif" width="140" alt="banner"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycGVlNmdqNTd6NHVlcXRuMHhpM3VpcXlnMHg0ZmoyOTJocHY3b2djeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kz2occKhlw7JwQt81J/giphy.gif" alt="banner"/>
 </div>
 
 <div align="center">
