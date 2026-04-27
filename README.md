@@ -172,6 +172,8 @@ root@yuna: cat aboutme.json
 <h1>💌 Keep In Touch</h1>
 </div>
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyYTI1NWFuOXVkcDV1ZndqaHE3a2w1Z3B5aTNtdWhnc2tqNGRpOTdsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZaITpmHqVgCutS0BEI/giphy.gif" alt="gif"/>
+
 <p align="center">
 <a href="https://www.instagram.com/hii.yvnaa_" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram"/></a>
@@ -184,10 +186,6 @@ root@yuna: cat aboutme.json
 
 <a href="https://saweria.co/itsyunaa" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Saweria&logo=buy-me-a-coffee&label=Support&color=FD7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="saweria"/></a>
-</p>
-
-<p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNzF6Ym04ZzU5bmxmNXd2dTVicDNhY3Q5bDg3ZThteHEzOTVvdW5nOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aX4MRTZ7uT1JhxfVAY/giphy.gif" width="140" height="auto" alt="gif"/>
 </p>
 
 ---
