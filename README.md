@@ -31,7 +31,7 @@ root@yuna: cat aboutme.json
         "asl": [
           "19", "she/her", "indonesia"
         ]
-      }
+      },
       {
         "hobby": [
           "editing", "eating", "and sleeping"
