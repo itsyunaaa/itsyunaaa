@@ -11,8 +11,6 @@
 <p align="center"><i><b>I'm Yuna. Just an average girl who fires up VSCode whenever i'm bored out of my mind. Honestly, writing code is my absolute favorite way to kill time instead of just spacing out. Right now, i'm diving deep into JavaScript and Python. I'm definitely no pro yet, but i totally geek out on debugging and smashing errors until i find a fix. Lately, my main focus has been on backend dev, automation, and running some lowkey server/VPS management.</b></i></p>
 </div>
 
----
-
 <div align="center">
 <h2><b>💫 About Me</b></h2>
 </div>
@@ -55,8 +53,6 @@ root@yuna: cat aboutme.json
 
 <img src="https://github-readme-stats.vercel.app/api?username=itsyunaaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="auto" alt="stats"/>
 </div>
-
----
 
 <div align="center">
 <h1>📖 Knowledge</h1>
@@ -135,8 +131,6 @@ root@yuna: cat aboutme.json
 </table>
 </div>
 
----
-
 <div align="center">
 <h1>🎶 My Vibe</h1>
 </div>
@@ -166,8 +160,6 @@ root@yuna: cat aboutme.json
 <br><br><b>Lil Wayne, Drake, Future - Love Me</b>
 </p>
 
----
-
 <div align="center">
 <h1>💌 Keep In Touch</h1>
 </div>
@@ -187,5 +179,3 @@ root@yuna: cat aboutme.json
 <a href="https://saweria.co/itsyunaa" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Saweria&logo=buy-me-a-coffee&label=Support&color=FD7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="saweria"/></a>
 </p>
-
----
