@@ -162,9 +162,8 @@ root@yuna: cat aboutme.json
 
 <div align="center">
 <h1>💌 Keep In Touch</h1>
-</div>
-
 <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyYTI1NWFuOXVkcDV1ZndqaHE3a2w1Z3B5aTNtdWhnc2tqNGRpOTdsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZaITpmHqVgCutS0BEI/giphy.gif" alt="gif"/>
+</div>
 
 <p align="center">
 <a href="https://www.instagram.com/hii.yvnaa_" target="_blank">
